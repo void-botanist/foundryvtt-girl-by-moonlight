@@ -1,5 +1,5 @@
-2024/02/12-04:49:34.486 6c34 Log #151: 0 ops saved to Table #152 OK
-2024/02/12-04:49:34.486 6c34 Archiving F:\Foundry Data\Foundry Data\Data\systems\girl-by-moonlight\packs\crew_upgrades/000151.log: OK
-2024/02/12-04:49:34.490 6c34 Table #120: 7 entries OK
-2024/02/12-04:49:34.492 6c34 Archiving F:\Foundry Data\Foundry Data\Data\systems\girl-by-moonlight\packs\crew_upgrades/MANIFEST-000150: OK
-2024/02/12-04:49:34.495 6c34 **** Repaired leveldb F:\Foundry Data\Foundry Data\Data\systems\girl-by-moonlight\packs\crew_upgrades; recovered 1 files; 2319 bytes. Some data may have been lost. ****
+2024/09/06-19:30:26.799 4c7c Log #161: 0 ops saved to Table #164 OK
+2024/09/06-19:30:26.799 4c7c Archiving C:\Users\Neal\AppData\Local\FoundryVTT\Data\systems\girl-by-moonlight\packs\crew_upgrades/000161.log: OK
+2024/09/06-19:30:26.807 4c7c Table #163: 7 entries OK
+2024/09/06-19:30:26.814 4c7c Archiving C:\Users\Neal\AppData\Local\FoundryVTT\Data\systems\girl-by-moonlight\packs\crew_upgrades/MANIFEST-000159: OK
+2024/09/06-19:30:26.823 4c7c **** Repaired leveldb C:\Users\Neal\AppData\Local\FoundryVTT\Data\systems\girl-by-moonlight\packs\crew_upgrades; recovered 1 files; 2319 bytes. Some data may have been lost. ****

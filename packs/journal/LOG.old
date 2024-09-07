@@ -1,5 +1,5 @@
-2024/02/12-04:49:34.545 998 Log #87: 0 ops saved to Table #88 OK
-2024/02/12-04:49:34.545 998 Archiving F:\Foundry Data\Foundry Data\Data\systems\girl-by-moonlight\packs\journal/000087.log: OK
-2024/02/12-04:49:34.546 998 Table #56: 56 entries OK
-2024/02/12-04:49:34.548 998 Archiving F:\Foundry Data\Foundry Data\Data\systems\girl-by-moonlight\packs\journal/MANIFEST-000086: OK
-2024/02/12-04:49:34.551 998 **** Repaired leveldb F:\Foundry Data\Foundry Data\Data\systems\girl-by-moonlight\packs\journal; recovered 1 files; 76887 bytes. Some data may have been lost. ****
+2024/09/06-19:30:26.951 10a0 Log #97: 0 ops saved to Table #100 OK
+2024/09/06-19:30:26.952 10a0 Archiving C:\Users\Neal\AppData\Local\FoundryVTT\Data\systems\girl-by-moonlight\packs\journal/000097.log: OK
+2024/09/06-19:30:26.954 10a0 Table #99: 56 entries OK
+2024/09/06-19:30:26.962 10a0 Archiving C:\Users\Neal\AppData\Local\FoundryVTT\Data\systems\girl-by-moonlight\packs\journal/MANIFEST-000095: OK
+2024/09/06-19:30:26.970 10a0 **** Repaired leveldb C:\Users\Neal\AppData\Local\FoundryVTT\Data\systems\girl-by-moonlight\packs\journal; recovered 1 files; 76887 bytes. Some data may have been lost. ****
