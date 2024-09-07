@@ -4,7 +4,7 @@
   <img alt="GitHub downloads (latest)" src="https://img.shields.io/github/downloads/bigdlh/foundryvtt-girl-by-moonlight/latest/system.zip">
 </p>
 
-An attempt to adapt the Blades in the Dark system created by megastruktur to Girl by Monlight
+An attempt to adapt the Blades in the Dark system created by megastruktur to Girl by Moonlight
 
 ## Clocks 
 (thanks to TyrannosaurusRoy for permission to use the UI code from his great Clocks module!)
