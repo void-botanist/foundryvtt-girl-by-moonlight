@@ -2163,6 +2163,7 @@ padding: 0px;
 .blurbbox {
   background-color: #cad5de;
   padding: 0 0.4em;
+  margin-bottom: 5px;
 }
 
 .tealbar {
@@ -2178,4 +2179,12 @@ padding: 0px;
 h2 {
   font-weight: bold;
   margin: 0;
+}
+
+h2.label-stripe {
+  margin: 0;
+}
+
+.attribute {
+  margin-bottom: 5px;
 }
