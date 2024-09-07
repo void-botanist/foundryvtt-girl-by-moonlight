@@ -1,4 +1,7 @@
-2024/09/06-19:30:26.902 2df0 Log #183: 0 ops saved to Table #184 OK
-2024/09/06-19:30:26.903 2df0 Archiving C:\Users\Neal\AppData\Local\FoundryVTT\Data\systems\girl-by-moonlight\packs\macros/000183.log: OK
-2024/09/06-19:30:26.910 2df0 Archiving C:\Users\Neal\AppData\Local\FoundryVTT\Data\systems\girl-by-moonlight\packs\macros/MANIFEST-000181: OK
-2024/09/06-19:30:26.919 2df0 **** Repaired leveldb C:\Users\Neal\AppData\Local\FoundryVTT\Data\systems\girl-by-moonlight\packs\macros; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2024/09/06-19:41:15.734 2a84 Recovering log #187
+2024/09/06-19:41:15.751 2a84 Delete type=0 #187
+2024/09/06-19:41:15.752 2a84 Delete type=3 #185
+2024/09/06-20:32:02.901 3318 Level-0 table #192: started
+2024/09/06-20:32:02.901 3318 Level-0 table #192: 0 bytes OK
+2024/09/06-20:32:02.918 3318 Delete type=0 #190
+2024/09/06-20:32:02.918 3318 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

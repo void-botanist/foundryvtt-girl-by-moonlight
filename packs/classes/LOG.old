@@ -1,5 +1,14 @@
-2024/09/06-19:30:26.593 4c7c Log #299: 0 ops saved to Table #302 OK
-2024/09/06-19:30:26.593 4c7c Archiving C:\Users\Neal\AppData\Local\FoundryVTT\Data\systems\girl-by-moonlight\packs\classes/000299.log: OK
-2024/09/06-19:30:26.595 4c7c Table #301: 6 entries OK
-2024/09/06-19:30:26.603 4c7c Archiving C:\Users\Neal\AppData\Local\FoundryVTT\Data\systems\girl-by-moonlight\packs\classes/MANIFEST-000297: OK
-2024/09/06-19:30:26.612 4c7c **** Repaired leveldb C:\Users\Neal\AppData\Local\FoundryVTT\Data\systems\girl-by-moonlight\packs\classes; recovered 1 files; 5508 bytes. Some data may have been lost. ****
+2024/09/06-19:41:15.620 2a84 Recovering log #305
+2024/09/06-19:41:15.634 2a84 Delete type=0 #305
+2024/09/06-19:41:15.634 2a84 Delete type=3 #303
+2024/09/06-20:32:02.799 3318 Level-0 table #311: started
+2024/09/06-20:32:02.814 3318 Level-0 table #311: 1693 bytes OK
+2024/09/06-20:32:02.820 3318 Delete type=0 #309
+2024/09/06-20:32:02.821 3318 Manual compaction at level-0 from '!items!2jzlNaQpB6lHjZdw' @ 72057594037927935 : 1 .. '!items!ddnUgqrNyRvYKGef' @ 0 : 0; will stop at '!items!ATwqxUHjNGDscvAX' @ 57 : 1
+2024/09/06-20:32:02.821 3318 Compacting 1@0 + 1@1 files
+2024/09/06-20:32:02.837 3318 Generated table #312@0: 6 keys, 5525 bytes
+2024/09/06-20:32:02.838 3318 Compacted 1@0 + 1@1 files => 5525 bytes
+2024/09/06-20:32:02.845 3318 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/06-20:32:02.846 3318 Delete type=2 #307
+2024/09/06-20:32:02.847 3318 Delete type=2 #311
+2024/09/06-20:32:02.871 3318 Manual compaction at level-0 from '!items!ATwqxUHjNGDscvAX' @ 57 : 1 .. '!items!ddnUgqrNyRvYKGef' @ 0 : 0; will stop at (end)

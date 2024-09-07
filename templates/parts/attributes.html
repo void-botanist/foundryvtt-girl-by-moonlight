@@ -44,34 +44,30 @@
   {{/each}}
   <br>
 
-  <div class="stripe">
-    <b>Bonus Die</b>
-  </div>
+  <h2 class="stripe">Bonus Die</h2>
   <div class="blurbbox">
-    <label><strong>Push yourself</strong> (take 2 stress) or accept a <strong>Poisoned Promise</strong> </label>
+    <p><b>Push yourself</b> (take 2 stress) or accept a <b>Poisoned Promise</b></p>
   </div>
   <br>
 
-  <div class="stripe">
-    <b>Teamwork</b>
-  </div>
+  <h2 class="stripe">Teamwork</h2>
   <div class="blurbbox">
-    <label class="halfcolumn"><strong>• Assist</strong> a teammate<br><strong>• Lead</strong> a group action</label>
-    <label class="halfcolumn"><strong>• Set up</strong> a teammate<br><strong>• Protect</strong> a group action</label>
+    <ul>
+      <li><b>Assist</b> a teammate</li>
+      <li><b>Lead</b> a group action</li>
+      <li><b>Set up</b> a teammate</li>
+      <li><b>Protect</b> a group action</li>
+    </ul>
   </div>
   <br>
 
-  <div class="stripe">
-    <b>Gather Information</b>
-  </div>
+  <h2 class="stripe">Gather Information</h2>
   <div class="blurbbox">
-    <div>
       {{#each items as |item id|}}
         {{#if (eq item.type "class")}}
-          <b>{{{item.system.gatherInformation}}}</b>
+          {{{item.system.gatherInformation}}}
         {{/if}}
       {{/each}}
-    </div>
   </div>
 </div>
 

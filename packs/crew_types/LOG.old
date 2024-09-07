@@ -1,5 +1,7 @@
-2024/09/06-19:30:26.746 10a0 Log #170: 0 ops saved to Table #173 OK
-2024/09/06-19:30:26.747 10a0 Archiving C:\Users\Neal\AppData\Local\FoundryVTT\Data\systems\girl-by-moonlight\packs\crew_types/000170.log: OK
-2024/09/06-19:30:26.755 10a0 Table #172: 1 entries OK
-2024/09/06-19:30:26.762 10a0 Archiving C:\Users\Neal\AppData\Local\FoundryVTT\Data\systems\girl-by-moonlight\packs\crew_types/MANIFEST-000168: OK
-2024/09/06-19:30:26.770 10a0 **** Repaired leveldb C:\Users\Neal\AppData\Local\FoundryVTT\Data\systems\girl-by-moonlight\packs\crew_types; recovered 1 files; 3260 bytes. Some data may have been lost. ****
+2024/09/06-19:41:15.676 5eec Recovering log #176
+2024/09/06-19:41:15.689 5eec Delete type=0 #176
+2024/09/06-19:41:15.689 5eec Delete type=3 #174
+2024/09/06-20:32:02.863 3318 Level-0 table #182: started
+2024/09/06-20:32:02.864 3318 Level-0 table #182: 0 bytes OK
+2024/09/06-20:32:02.871 3318 Delete type=0 #180
+2024/09/06-20:32:02.871 3318 Manual compaction at level-0 from '!items!AkBrIECn2YusCmaR' @ 72057594037927935 : 1 .. '!items!AkBrIECn2YusCmaR' @ 0 : 0; will stop at (end)

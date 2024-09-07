@@ -1,5 +1,7 @@
-2024/09/06-19:30:26.951 10a0 Log #97: 0 ops saved to Table #100 OK
-2024/09/06-19:30:26.952 10a0 Archiving C:\Users\Neal\AppData\Local\FoundryVTT\Data\systems\girl-by-moonlight\packs\journal/000097.log: OK
-2024/09/06-19:30:26.954 10a0 Table #99: 56 entries OK
-2024/09/06-19:30:26.962 10a0 Archiving C:\Users\Neal\AppData\Local\FoundryVTT\Data\systems\girl-by-moonlight\packs\journal/MANIFEST-000095: OK
-2024/09/06-19:30:26.970 10a0 **** Repaired leveldb C:\Users\Neal\AppData\Local\FoundryVTT\Data\systems\girl-by-moonlight\packs\journal; recovered 1 files; 76887 bytes. Some data may have been lost. ****
+2024/09/06-19:41:15.756 5eec Recovering log #103
+2024/09/06-19:41:15.770 5eec Delete type=0 #103
+2024/09/06-19:41:15.770 5eec Delete type=3 #101
+2024/09/06-20:32:02.881 3318 Level-0 table #109: started
+2024/09/06-20:32:02.881 3318 Level-0 table #109: 0 bytes OK
+2024/09/06-20:32:02.900 3318 Delete type=0 #107
+2024/09/06-20:32:02.918 3318 Manual compaction at level-0 from '!journal!H4Dj9tw0oia74AWb' @ 72057594037927935 : 1 .. '!journal.pages!qKLycaAqRMCswsS8.u5ipks0XcOEFoCOU' @ 0 : 0; will stop at (end)

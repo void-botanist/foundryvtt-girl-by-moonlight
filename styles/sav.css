@@ -57,7 +57,7 @@
   margin-bottom: 10px;
 }
 * ul {
-  list-style: none;
+  /* list-style: none; */
 }
 * .sheet .editor-content ul {
   list-style: unset;
@@ -2162,6 +2162,7 @@ padding: 0px;
 
 .blurbbox {
   background-color: #cad5de;
+  padding: 0 0.4em;
 }
 
 .tealbar {
@@ -2172,3 +2173,9 @@ padding: 0px;
   border-top: 3px solid #127591;
 }
 /*# sourceMappingURL=sav.css.map */
+
+
+h2 {
+  font-weight: bold;
+  margin: 0;
+}
